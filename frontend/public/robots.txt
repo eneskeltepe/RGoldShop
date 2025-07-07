@@ -1,0 +1,6 @@
+# RGoldShop robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap (production'da güncellenecek)
+# Sitemap: https://your-domain.com/sitemap.xml
